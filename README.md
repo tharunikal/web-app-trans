@@ -2,7 +2,7 @@
 
 A real-time English to French translation web application built with Hugging Face Transformers and Gradio.
 
-![Demo Screenshot](demo-screenshot.png) *(Replace with actual screenshot)*  
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/reponame/blob/main/Module_1_of_web_app_translator.ipynb)
 
 ## Features ✨
